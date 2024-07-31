@@ -1,0 +1,1 @@
+DROP DATABASE dbms_placements;
